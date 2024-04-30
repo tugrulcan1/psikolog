@@ -16,7 +16,7 @@
 											<div class="slide_description">
 												<div class="intro-layer" data-animation="fadeInRight">
 													<h3>
-													 Sanat Terapisi
+													 Sanat Terapisiasd
 													</h3>
 												</div>
 												<div class="intro-layer" data-animation="fadeInLeft">
